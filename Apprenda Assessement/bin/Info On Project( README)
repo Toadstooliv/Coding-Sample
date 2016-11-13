@@ -1,0 +1,9 @@
+
+
+The Shape class:
+
+The shape class is an abstract class that allows for the creation and comparison of different shapes.  It is flexible enough to work for all polygonal shapes
+all that is required is adding a wrapper for that shape.  Currently only Quadrangle and rectangle are implemented, however to implement others would only take around 3 lines of code
+which is mostly simple functions.
+
+Included with the Shape class is a main that allows for the user to test out the functionality of the Shape class through a simple console interface. 
